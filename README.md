@@ -1,4 +1,4 @@
-
+![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Babbage_-_1860.jpg)
 ## Getting Started
 
 These instructions will help you set up the project on your local machine.
