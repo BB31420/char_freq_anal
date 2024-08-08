@@ -10,7 +10,7 @@ These instructions will help you set up the project on your local machine.
 
 
 ### Create Virtual Environment
-This helps keep packages seperate to avoid conflicts. Use the venv when running the code and before installing the required packages. The code requires openai 0.28, which is specified in the requirements.txt. 
+This helps keep packages seperate to avoid conflicts. Use the venv when running the code, before installing the required packages, and activate the venv when using the code.
 
 1. Navigate to the project directory with ```cd``` ```ls -la```
  * Windows: ```python -m venv .venv``` then ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser```
